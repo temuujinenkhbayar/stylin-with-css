@@ -1,1 +1,13 @@
-/* css goes here REMOVE THIS COMMENT */
+html{
+   background-color:#ccc;
+}
+
+
+body {
+   font-family:Arial,sans-serif;
+   background-color:#fff;
+   max-width:960px;
+   width:90%;
+   margin:auto;
+   padding:1%;
+}
